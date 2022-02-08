@@ -1,4 +1,5 @@
-# nyu-cs2262-001-fa20
-CSCI-UA.0201-005 - Fall 2020
+#Python Docker flask test App 
+initial set up 
+docker build -t paulsrbhnyu/time-app . 
+docker run -d -p 5000:5000 paulsrbhnyu/time-app
 
-Central repository for managing class activities and course information
